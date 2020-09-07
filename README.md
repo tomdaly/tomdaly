@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Tom 👋
 
-<!--
-**tomdaly/tomdaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+I'm a full-stack software engineer, currently working at [the BBC](https://bbc.co.uk). I build solutions to real problems, and help others to develop more effectively.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills and interests include Java, TypeScript, DevOps, AWS, Unix, CI/CD and Security.
+
+
+_Where to find me:_
+ - [tdaly.co.uk](https://tdaly.co.uk)
+ - [LinkedIn](https://www.linkedin.com/in/tom-daly-57b35b146/)
+
+-----
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomdaly&theme=dark&show_icons=true">
+</span>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdaly&layout=compact&theme=dark">
+</span>
