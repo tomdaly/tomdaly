@@ -2,9 +2,9 @@
 
 -----
 
-I'm a full-stack software engineer, currently working at [the BBC](https://bbc.co.uk). I build solutions to real problems, and help others to develop more effectively.
+I'm a DevOps-focused software engineer, currently working at [Deliveroo](https://deliveroo.co.uk). I build solutions to real problems, and help others to develop more effectively.
 
-My skills and interests include Java, TypeScript, DevOps, AWS, Unix, CI/CD and Security.
+My skills and interests include Python, TypeScript, DevOps, AWS, Unix, CI/CD and Security.
 
 
 _Where to find me:_
