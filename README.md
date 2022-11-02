@@ -13,8 +13,8 @@ _Where to find me:_
 
 -----
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomdaly&theme=dark&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomdaly&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=00000000">
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomdaly&layout=compact&theme=dark">
+  <img align="center" src="https://streak-stats.demolab.com/?user=tomdaly&theme=github-dark-blue&hide_border=true&background=00000000">
 </span>
