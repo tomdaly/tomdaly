@@ -12,9 +12,7 @@ _Where to find me:_
  - [LinkedIn](https://www.linkedin.com/in/tom-daly-57b35b146/)
 
 -----
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomdaly&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=00000000">
-</span>
-<span>
-  <img align="center" src="https://streak-stats.demolab.com/?user=tomdaly&theme=github-dark-blue&hide_border=true&background=00000000">
-</span>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tomdaly&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=00000000">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=tomdaly&theme=github-dark-blue&hide_border=true&background=00000000">
+</p>
